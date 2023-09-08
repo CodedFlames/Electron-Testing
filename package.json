@@ -1,0 +1,14 @@
+{
+  "name": "electron-testing",
+  "version": "1.0.0",
+  "description": "Testing with Electronjs",
+  "main": "index.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "author": "CodedFlames",
+  "license": "ISC",
+  "dependencies": {
+    "electron": "^26.2.0"
+  }
+}
